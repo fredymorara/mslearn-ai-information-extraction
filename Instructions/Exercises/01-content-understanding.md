@@ -2,9 +2,10 @@
 lab:
   title: Extract information from multimodal content
   description: Use Azure Content Understanding to extract insights from documents, images, audio recordings, and videos.
-  duration: 40 minutes
+  duration: 40
   level: 200
   islab: true
+  status: 'released'
   primarytopics:
     - Azure
     - Azure Content Understanding

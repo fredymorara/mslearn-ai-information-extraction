@@ -2,9 +2,10 @@
 lab:
   title: Build an automated RAG ingestion pipeline with Content Understanding
   description: Use Azure Content Understanding, Azure AI Search, and Azure OpenAI to build a continuous multimodal RAG ingestion pipeline.
-  duration: 45 minutes
+  duration: 45
   level: 300
   islab: true
+  status: 'released'
   primarytopics:
     - Azure
     - Azure Content Understanding
